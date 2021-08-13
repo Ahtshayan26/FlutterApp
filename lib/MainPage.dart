@@ -212,13 +212,6 @@ class MainPage extends StatelessWidget {
             BottomNavigationBarItem(
                 icon: Icon(Icons.person),
                 title: Text('person'),
-                label: 'Profile',
-                // onpressed: () {
-                //   Navigator.push(
-                //     context,
-                //     MaterialPageRoute(builder: (context) => ProfilePage()),
-                //   );
-                // },
                 backgroundColor: Colors.blue.shade700
             ),
             BottomNavigationBarItem(
