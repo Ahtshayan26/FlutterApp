@@ -1,0 +1,42 @@
+name: cropmedic
+description: cropmedicplus project
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  tflite: ^1.1.1
+  image_picker: ^0.6.3
+  animated_splash: ^1.0.0
+  carousel_pro: ^0.0.13
+  flutter_speed_dial: ^1.2.5
+  flutter_launcher_icons:
+  firebase_auth: ^0.14.0+5
+  cloud_firestore: ^0.12.9+4
+  firebase_storage: ^3.0.6
+  fluttertoast:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path:
+    "assets/icon.PNG"
+
+flutter:
+
+  uses-material-design: true
+
+
+  assets:
+    - assets/

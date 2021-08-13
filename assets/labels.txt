@@ -1,0 +1,30 @@
+Pepper bell bacterial spot
+Pepper bell healthy
+Potato early blight
+Potato healthy
+Potato late blight
+Tomato target spot
+Tomato tomato mosaic virus
+Tomato tomato yellow leaf curl virus
+Tomato bacterial spot
+Tomato early blight
+Tomato healthy
+Tomato late blight
+Tomato leaf mold
+Tomato septoria leaf spot
+Tomato spider mites two spotted spider mite
+Citrus black spot
+Citrus canker
+Citrus greening
+Citrus scab
+Fresh apples
+Fresh banana
+Fresh oranges
+Healthy citrus
+Rotten apples
+Rotten banana
+Rotten oranges
+Emergent diseases
+Fungi disease
+Healthy root
+Root rotten
